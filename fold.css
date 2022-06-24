@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+#do{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    margin: 5px;
+    font-weight: bolder;
+    font-size: 100px;
+    border: peru solid 4px;
+
+}
+#do1{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    margin: 5px;
+    font-weight: bolder;
+    font-size: 100px;
+    border: peru solid 4px;
+}
+#do2{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    margin: 5px;
+    font-weight: bolder;
+    font-size: 100px;
+    border: peru solid 4px;
+}
+#momo{
+    display: flex;
+    height: 200px;
+    width: 600px;
+    margin-left: 450px;
+    font-weight: bolder;
+    font-size: 100px;
+  
+}
